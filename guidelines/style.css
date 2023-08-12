@@ -1,0 +1,26 @@
+.sectionHeader {
+    font-family: 'Impact';
+    font-size: 30px;
+    color: white;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+
+/* URI CSS styling */
+a:link {
+    text-decoration: none;
+    color: #e8ab16;
+}
+a:visited {
+    text-decoration: none;
+    color: #e8ab16;
+}
+a:hover {
+    text-decoration: underline;
+    color: #e8ab16;
+}
+a:active {
+    text-decoration: none;
+    color: #e8ab16;
+}
